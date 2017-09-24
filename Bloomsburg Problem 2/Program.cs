@@ -31,16 +31,15 @@ namespace Bloomsburg_Problem_2
 
             lapTimeMin = Time / 60;
             lapTimeSec = Time % 60;
-
-            if (lapTimeSec < 10)
-            {
-                Console.WriteLine("Time for each interval: " + lapTimeMin + ":0" + lapTimeSec);
-            }
-
             if (lapTimeMin > 60)
             {
                 int lapTimeHour = Time / 60;
-                Console.WriteLine("Time for each interval: " + (lapTimeHour / 60) + ":" + (lapTimeMin / 12) + ":" + lapTimeSec);
+                Console.WriteLine("Time for each interval: " + (lapTimeHour / 60) + ":" + (lapTimeMin / 11) + ":" + lapTimeSec);
+            }
+
+            else if (lapTimeSec < 10)
+            {
+                Console.WriteLine("Time for each interval: " + lapTimeMin + ":0" + lapTimeSec);
             }
 
             else
