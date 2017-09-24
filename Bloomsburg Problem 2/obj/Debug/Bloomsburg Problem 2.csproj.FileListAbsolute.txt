@@ -1,0 +1,7 @@
+C:\Users\Andrew Spaziani\Documents\GitHub\Bloomsburg\Bloomsburg Problem 2\obj\Debug\Bloomsburg Problem 2.csprojResolveAssemblyReference.cache
+C:\Users\Andrew Spaziani\Documents\GitHub\Bloomsburg\Bloomsburg Problem 2\obj\Debug\Bloomsburg Problem 2.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Spaziani\Documents\GitHub\Bloomsburg\Bloomsburg Problem 2\bin\Debug\Bloomsburg Problem 2.exe.config
+C:\Users\Andrew Spaziani\Documents\GitHub\Bloomsburg\Bloomsburg Problem 2\bin\Debug\Bloomsburg Problem 2.exe
+C:\Users\Andrew Spaziani\Documents\GitHub\Bloomsburg\Bloomsburg Problem 2\bin\Debug\Bloomsburg Problem 2.pdb
+C:\Users\Andrew Spaziani\Documents\GitHub\Bloomsburg\Bloomsburg Problem 2\obj\Debug\Bloomsburg Problem 2.exe
+C:\Users\Andrew Spaziani\Documents\GitHub\Bloomsburg\Bloomsburg Problem 2\obj\Debug\Bloomsburg Problem 2.pdb
